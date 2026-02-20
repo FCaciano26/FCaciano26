@@ -31,6 +31,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm"
 </p>
+
+## 🗄 Databases I have worked with
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
 <!--
 **FCaciano26/FCaciano26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
