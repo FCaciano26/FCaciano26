@@ -50,6 +50,21 @@
   />
 </p>
 
+## 🏛️ Student Leadership & Organizations
+
+- 🎓 **NEEI-UÉvora**
+  *Vice-President & Technological Department Coordinator*
+  - Leading technical initiatives and digital infrastructure of the organization
+  - Leading teams
+  - Supporting academic events and tech-related projects  
+  - Improving internal systems and automation processes, improving the lifespan of the organization
+
+- 🏫 **Associação Académica da Universidade de Évora**
+  *IT Setor Coordinator*
+  - Contributing to web platforms and digital improvements  
+  - Supporting organizational events and technical development 
+    
+
 <!--
 **FCaciano26/FCaciano26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
