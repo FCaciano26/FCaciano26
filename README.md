@@ -21,6 +21,16 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/francisco-caciano-405521370/
 - 🤖 Discord: https://discord.com/users/344147376635641857
 - 📧 Email: francisco.caciano2004@hotmail.com
+
+## 🛠 Languages I have worked with
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,rust,kotlin,go,css" />
+</p>
+
+## 🚀 Frameworks & Tools 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm"
+</p>
 <!--
 **FCaciano26/FCaciano26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
