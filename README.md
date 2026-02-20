@@ -29,7 +29,7 @@
 
 ## 🚀 Frameworks & Tools 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm"
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,spring,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm"
 </p>
 
 ## 🗄 Databases I have worked with
