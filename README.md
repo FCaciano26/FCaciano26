@@ -37,6 +37,21 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TEU_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
 <!--
 **FCaciano26/FCaciano26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
