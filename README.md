@@ -8,10 +8,14 @@
 - 🎓 Computer Science student @ University of Évora
 - 📍 Based in Évora, Portugal 
 - 💡 Passionate about Software Development and Problem Solving
-- 🚀 Interested in Backend, Full-Stack and Systems Programming
+- 🚀 Interested in Backend, Frontend, if you want to call it - Full-Stack, Systems Programming and 
 - 🌱 Currently improving my skills in Rust, Python, Java and Web Technologies, including React.js, Next.js, and other typescript forms
+- 🧩 Enjoy building projects that solve real-world problems  
+- 🤝 Open to collaboration on interesting and challenging projects
 - 🧠 Always learning something new
 - 🎯 Focused on writing clean and efficient code
+
+
 <!--
 **FCaciano26/FCaciano26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
