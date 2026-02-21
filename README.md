@@ -43,7 +43,7 @@
 
 ## 🚀 Frameworks & Tools I have worked with
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,spring,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm"
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,spring,linux,git,github,gitlab,docker,cloudflare,figma,latex,npm,postman"
 </p>
 
 ## 🗄 Databases I have worked with
